@@ -16,8 +16,8 @@ public class TwoRangesSum {
                     countedSum += i;
                 }
             }
-            System.out.println("skipped sum is" + scippedSum);
-            System.out.println("counted sum is" + countedSum);
+            System.out.println("skipped sum is " + scippedSum);
+            System.out.println("counted sum is " + countedSum);
         }
 
     }
